@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: 902488664673.dkr.ecr.us-east-1.amazonaws.com/simple-app:a8fbf5dbc27319dbd0cbfacf9c6cd2f95881ca06
+        image: 902488664673.dkr.ecr.us-east-1.amazonaws.com/simple-app:03c51396beee3569512d0c2491c3dc45a0799d84
         ports:
         - containerPort: 80
 ---
